@@ -4,11 +4,14 @@
 ### I'm learning how to program websites also I have YouTube chanell
 
 
-### Languages
+### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=092E20)
+![GIMP](https://img.shields.io/badge/-GIMP-000000?style=for-the-badge&logo=GIMP&logoColor=5C5543)
 
-My YouTube
+### My YouTube:
 
 
