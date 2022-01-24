@@ -13,5 +13,5 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-000000?style=for-the-badge&logo=GIMP&logoColor=5C5543)
 
 ### My YouTube:
-
+[![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/channel/UCWSPDorB5Z6h295m8AnatdA)
 
