@@ -5,7 +5,8 @@
 
 
 ### Languages
-![HTML](https://img.shields.io/badge/-HTML-CC0000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![HTML](https://img.shields.io/badge/-HTML-6d0600?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-C0C0C0?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
 My YouTube
 
