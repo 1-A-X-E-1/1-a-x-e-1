@@ -1,7 +1,7 @@
 [![Header](https://github.com/1-A-X-E-1/1-a-x-e-1/blob/main/assets/20220124_153912.png)](https://www.youtube.com/channel/UCWSPDorB5Z6h295m8AnatdA)
 
 
-### I'm learning how to program websites also I have YouTube chanell
+### I'm learning how to program websites, also I have YouTube chanell
 
 
 ### Languages and Tools:
@@ -13,5 +13,7 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-000000?style=for-the-badge&logo=GIMP&logoColor=5C5543)
 
 ### My YouTube:
-[![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=#FF0000)](https://www.youtube.com/channel/UCWSPDorB5Z6h295m8AnatdA)
+[![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCWSPDorB5Z6h295m8AnatdA)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-a-x-e-1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
